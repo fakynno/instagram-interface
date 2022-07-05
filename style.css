@@ -118,3 +118,11 @@ body {
     width: 10rem;
     background-size: cover;
 }
+
+.app-download:nth-child(1) {
+    background-image: url('./images/logo-applestore.png');
+}
+
+.app-download:nth-child(2) {
+    background-image: url('./images/logo-playstore.png');
+}
